@@ -1,4 +1,4 @@
-package com.osawaseigo.breakpot;
+package com.osawaseigo.breakpot.bubblesort;
 
 import java.util.ArrayList;
 import java.util.List;
